@@ -1,0 +1,17 @@
+# ONNX model files
+*.onnx
+
+# TensorRT engines
+*.engine
+
+# Word documents
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Test output (generated at runtime)
+verification/output/
